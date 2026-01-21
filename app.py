@@ -265,4 +265,4 @@ col_ex2.download_button(
 
 
 st.markdown("---")
-st.markdown("End of Report")
+st.markdown("End of Report | Made by [chandannn.com](https://chandannn.com)")
